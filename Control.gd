@@ -1,6 +1,6 @@
 extends Control
 
-var dateURL = "http://date.jsontest.com/"
+var dateURL = "https://websurv.indiana.edu/csrtest/development/date.cfm"
 
 func _ready():
 	pass
